@@ -1,0 +1,92 @@
+h1 {
+    color: brown;
+    margin-left: 500px; 
+}
+
+* {
+    border: solid;
+}
+
+.menu{
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color:aquamarine;
+}
+body{
+  background-color:mediumspringgreen;
+  
+}
+.grid{
+  display:flex;
+  flex-wrap:wrap-reverse;
+  font-family: sans-serif;
+  
+}
+.camel {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 300px;
+  height: 700px;
+  padding: 50px;
+  background-color:deeppink;
+}
+
+.chameleon {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 300px;
+  height: 600px;
+  padding: 50px;
+  background-color:deeppink;
+}
+ 
+.pandas {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 300px;
+  height: 700px;
+  padding: 50px;
+  background-color:deeppink;
+}  
+
+
+.cicada{
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 300px;
+  height: 700px;
+  padding: 50px;
+  background-color:deeppink;
+}  
+
+.teddy{
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 300px;
+  height: 600px;
+  padding: 50px;
+  background-color:deeppink;
+}    
+
+.pigeon{
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 300px;
+  height: 600px;
+  padding: 50px;
+  background-color:deeppink;
+}    
+
+
+
+
